@@ -56,3 +56,5 @@ Add a custom Automator Quick Action to Finder’s right-click menu, allowing you
 - 安卓手机需打开蓝牙并允许接收文件。
 - 该方法适用于 macOS 原生“蓝牙文件交换”应用。
 
+<img width="545" height="599" alt="截屏2025-09-01 10 32 56" src="https://github.com/user-attachments/assets/e07f4fb1-f89f-4ec6-8922-97937f906097" />
+<img width="710" height="464" alt="截屏2025-09-01 10 26 52" src="https://github.com/user-attachments/assets/e9c2a11f-a0c2-47c9-a58b-7c87c6302c97" />
